@@ -35,5 +35,5 @@ To design an app-controlled system that translates text into Braille output.
 - Accessibility systems
 
 ## 🏆 Achievements
-- Selected among Top 20 projects in Plutonium 2026
+- Selected among **Top 20** projects in Plutonium 2026
 - Awarded participation certificate
