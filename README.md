@@ -33,3 +33,7 @@ To design an app-controlled system that translates text into Braille output.
 - Assistive devices for visually impaired
 - Educational tools
 - Accessibility systems
+
+## 🏆 Achievements
+- Selected among Top 20 projects in Plutonium 2026
+- Awarded participation certificate
