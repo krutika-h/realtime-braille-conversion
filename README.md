@@ -34,6 +34,9 @@ To design an app-controlled system that translates text into Braille output.
 - Educational tools
 - Accessibility systems
 
+## 👥 Team
+This project was developed as a team of 4 members.
+
 ## 🏆 Achievements
 - Selected among **Top 20** projects in Plutonium 2026
 - Awarded participation certificate
